@@ -1,3 +1,13 @@
+![GitHub release](https://img.shields.io/github/v/release/fr3dd33/Gigabyte-B365-EFI-Monterey?style=flat-square)
+![GitHub release date](https://img.shields.io/github/release-date/fr3dd33/Gigabyte-B365-EFI-Monterey?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/fr3dd33/Gigabyte-B365-EFI-Monterey?style=flat-square)
+![GitHub download latest](https://img.shields.io/github/downloads/fr3dd33/Gigabyte-B365-EFI-Monterey/latest/total?style=flat-square)
+![GitHub download total](https://img.shields.io/github/downloads/fr3dd33/Gigabyte-B365-EFI-Monterey/total?style=flat-square)  
+![GitHub stars](https://img.shields.io/github/stars/fr3dd33/Gigabyte-B365-EFI-Monterey?style=flat-square)
+![GitHub forks](https://img.shields.io/github/forks/fr3dd33/Gigabyte-B365-EFI-Monterey?style=flat-square)
+![GitHub issues](https://img.shields.io/github/issues/fr3dd33/Gigabyte-B365-EFI-Monterey?style=flat-square)
+![GitHub issues closed](https://img.shields.io/github/issues-closed/fr3dd33/Gigabyte-B365-EFI-Monterey?style=flat-square)
+
 # Getting Started and Documentation
 https://dortania.github.io/OpenCore-Install-Guide/config.plist/coffee-lake.html#starting-point
 
